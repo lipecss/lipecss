@@ -2,6 +2,7 @@
 
 Hi, I'm Felipecss, a guy that loves frontEnd/backend web developer.
 
+- 😵 In 2019 I created [Mixer Status] (https://mixerstatus.com), a website that tracked and showed ALL mixer channel analysis. It was accessed by hundreds of monthly users, but after the closing of the Mixer platform made by Microsoft this year, the site does not display any more information (good times).
 - 🔭 I’m currently working on my projects on my company [Vem Lavar a Louça Gamers](https://vemlavaralouca.com.br/)
 - 🌱 I’m currently working and learning more about Vuejs racha day.
 - 💬 Ask me about anything [here](https://github.com/lipecss/lipecss/issues)
