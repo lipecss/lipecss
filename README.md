@@ -3,8 +3,9 @@
 Hi, I'm Felipecss, a guy that loves frontEnd/backend web developer.
 
 - 🔭 I’m currently working on my projects on my company [Vem Lavar a Louça Gamers](https://vemlavaralouca.com.br/)
-- 🌱 I’m currently learning Vuejs
+- 🌱 I’m currently working and learning more about Vuejs racha day.
 - 💬 Ask me about anything [here](https://github.com/lipecss/lipecss/issues)
+- 🤖 Currently working on a multichannel bot for Twitch, for everyone to use. If it wasn't my back hurting, it would be in the air hehe 😓
 
 **Languages and Tools:**  
 
