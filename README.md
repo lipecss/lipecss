@@ -9,6 +9,7 @@ Hi, I'm Felipecss, a guy that loves frontEnd/backend web developer.
 - 🤖 Currently working on a multichannel bot for Twitch, for everyone to use. If it wasn't my back hurting, it would be in the air hehe 😓
 
 ### :hammer_and_wrench: Languages and Tools 
+<br/>
 
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Vuejs" width="40" height="40"/>&nbsp;
@@ -44,7 +45,25 @@ Hi, I'm Felipecss, a guy that loves frontEnd/backend web developer.
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=lipecss&bg_color=1e1e20&color=11b981&line=30a46c&point=30a46c" />
 <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipecss&theme=gotham" />
 
+### 🐍 Contribution snake
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lipecss/lipecss/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lipecss/lipecss/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lipecss/lipecss/output/github-contribution-grid-snake.svg">
+</picture>
+
 ---
 
-![Snake animation](https://github.com/lipecss/lipecss/blob/output/github-contribution-grid-snake.svg)
+### 🔗 Social info
+
+<div id="badges">
+    <a href="https://www.linkedin.com/in/felipecss/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://felipecss.com/">
+    <img src="https://img.shields.io/badge/Portfolio-dda703?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
+    </a>
+</div>
+
 
