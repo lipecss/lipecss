@@ -46,4 +46,5 @@ Hi, I'm Felipecss, a guy that loves frontEnd/backend web developer.
 
 ---
 
+![Snake animation](https://github.com/lipecss/lipecss/blob/output/github-contribution-grid-snake.svg)
 
